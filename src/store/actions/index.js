@@ -9,5 +9,6 @@ export {
   fetchOrders
 } from './orderActions';
 export {
-  auth
+  auth,
+  logout
 } from './authActions';
